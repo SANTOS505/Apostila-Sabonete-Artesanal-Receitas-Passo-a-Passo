@@ -1,0 +1,1 @@
+<script src = "https://my.hellobar.com/eb2a14299a36fe0b6e97e14e0f5cd9393744e2f7.js" type = "texto / javascript" charset = "utf-8" async = "assíncrono"> </ script>
